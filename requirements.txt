@@ -1,0 +1,16 @@
+# CV-SSM-PriorNet 依赖
+# 复值SSM + 极化先验引导的SAR图像分类网络
+
+# 核心依赖
+numpy>=1.21.0
+matplotlib>=2.5.0
+scikit-learn>=1.0.0
+
+# 复值神经网络
+cvnn>=1.0.0
+
+# 可选依赖
+seaborn>=0.11.0
+spectral>=0.22.0
+umap-learn>=0.5.0
+
